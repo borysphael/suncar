@@ -1,10 +1,10 @@
-# 🛠️ Automatização da Consulta do CAR no Site do SINAFLOR
+# 🛠️ Automatização da Consulta do CAR
 
-Este projeto tem como objetivo automatizar as rotinas de **consulta ao Cadastro Ambiental Rural (CAR)** através do portal do **SINAFLOR**, otimizando os processos realizados pela equipe da área de Gestão Ambiental / Regularização Fundiária.
+Este projeto tem como objetivo automatizar as rotinas de **consulta ao Cadastro Ambiental Rural (CAR)** otimizando os processos realizados pela equipe da área de Gestão Ambiental Regularização Fundiária.
 
 ## 📌 Objetivos
 
-- Reduzir o tempo gasto em consultas manuais no site do SINAFLOR.
+- Reduzir o tempo gasto em consultas manuais
 - Evitar erros humanos na inserção de dados e interpretação dos resultados.
 - Registrar e organizar os dados coletados automaticamente.
 - Fornecer relatórios ou arquivos com os resultados das consultas.

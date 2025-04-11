@@ -40,7 +40,7 @@ OS – manipulação de arquivos e diretórios do sistema
 
 ## 🏗️ Estrutura do Projeto
 
-├── main.py # Script principal da automação ├── consulta_car.py # Lógica de acesso ao SINAFLOR e extração dos dados ├── dados/ │ └── entradas.xlsx # Lista de CARs ou CPFs para consulta ├── resultados/ │ └── resultado_consultas.xlsx # Resultado final das consultas ├── logs/ │ └── log_execucao.txt # Log da execução ├── README.
+├── main.py # Script principal da automação ├── consulta_car.py # |└── entradas.xlsx # Lista de CARs ou CPFs para consulta ├── resultados/ │ └── resultado_consultas.xlsx # Resultado final das consultas ├── logs/ │ └── log_execucao.txt # Log da execução ├── README.
 
 ---
 
